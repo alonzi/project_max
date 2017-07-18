@@ -5,7 +5,7 @@ AI analysis of lab reports
 ### Q
 In a given circuit we add a second battery in series with the first. What will happen to the brightness of the bulbs in the circuit and why? (Use typical assumptions)
 
-### The Answer
+### A
 The bulbs in the curciut will brighten because the potential drop across the curciut will increase.
 
 
